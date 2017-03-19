@@ -1,5 +1,8 @@
 /*
-    Description
+    Nowadays, we all know that Computer College is the biggest department in HDU. But, maybe you don't know that Computer College had ever been split into Computer College and Software College in 2002.
+    The splitting is absolutely a big event in HDU! At the same time, it is a trouble thing too. All facilities must go halves. First, all facilities are assessed, and two facilities are thought to be same if they have the same value. 
+    It is assumed that there is N (0<N<1000) kinds of facilities (different value, different kinds).
+    http://acm.hdu.edu.cn/showproblem.php?pid=1171
 */
 #include <iostream>
 #include <algorithm>
